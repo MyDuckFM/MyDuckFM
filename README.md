@@ -17,7 +17,7 @@
 -My Doberman's name is Virgil and he's the best boy in the world, look at him and see for yourself.
 
 
-[image](https://github.com/user-attachments/assets/5f53e0ca-eb92-483f-9936-bfad68e81e01)
+![image](https://github.com/user-attachments/assets/5f53e0ca-eb92-483f-9936-bfad68e81e01)
 
 
 Summing up my monologue, I would like to express my respect to you for reading my README. I wish you all the best and hope to see you soon
