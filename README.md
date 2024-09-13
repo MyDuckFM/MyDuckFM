@@ -15,6 +15,7 @@
 -3: Well, in the end I would like to add that I do not like cats.
 -I love dogs.
 -My Doberman's name is Virgil and he's the best boy in the world, look at him and see for yourself.
-![image](https://github.com/user-attachments/assets/5b5e3a35-5aeb-4a04-b9e1-2773c25eb9b5)
+
+(https://github.com/user-attachments/assets/5b5e3a35-5aeb-4a04-b9e1-2773c25eb9b5)
 
 Summing up my monologue, I would like to express my respect to you for reading my README. I wish you all the best and hope to see you soon
